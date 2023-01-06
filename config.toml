@@ -1,4 +1,4 @@
 baseURL = 'http://kubefuse.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Kubefuse'
 theme = 'ananke'
