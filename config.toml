@@ -1,4 +1,4 @@
-baseURL = 'http://kubefuse.github.io/'
+baseURL = 'http://blog.kubefuse.com/'
 languageCode = 'en-us'
 title = 'Kubefuse'
 theme = 'ananke'
